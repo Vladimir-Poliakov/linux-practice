@@ -1,9 +1,21 @@
 # Linux Practice
 
-Linux practice labs for DevOps learning.
+Personal Linux and DevOps learning repository.
 
-## Completed labs
+Topics practiced:
 
-- Lab 01 Navigation
-- Lab 02 Files
-- Lab 03 Find Grep Xargs (in progress)
+- Linux navigation
+- File operations
+- Search utilities
+- Archives and compression
+- Package management
+- Bash basics
+- Bash conditions
+- Bash loops
+- Bash functions
+- Arrays
+- Users and groups
+- Permissions
+- Processes
+- Networking basics
+- Git fundamentals
